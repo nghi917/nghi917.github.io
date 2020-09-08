@@ -1,0 +1,104 @@
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+
+/*Reset CSS==*/* {
+	margin: 0;
+	padding: 0;
+}
+a:hover {
+  color: #fff;
+}
+#menu ul {
+	text-align: center;
+	font-family: 'Paytone One', sans-serif;
+	list-style-type: none;
+	background:#2D2D2D;
+}
+
+#menu li {
+	display: inline-block;
+	width: 100px;
+	height: 40px;
+	line-height: 40px;
+	margin-left: -5px;
+}
+#menu a {
+	text-decoration: none;
+	color: #BBBBBB;
+	display: block;
+	font-size: 20px;
+}
+#menu a:hover {
+	color:#82AC99;
+}
+.one-third {
+	width: 50%;
+	float: left;
+	box-sizing: border-box;
+	margin-top: 20px;
+	font-family: 'Quicksand', sans-serif;
+	color:#BBBBBB;
+	font-size: 14pt;
+}
+.no-margin-top {
+	font-family: 'Paytone One', sans-serif;
+	margin-top: 0;
+	font-size: 60px
+}
+.nghi {
+	font-family: 'Paytone One', sans-serif;
+	margin-top: 0;
+	font-size: 40px
+}
+.two-third {
+	width: 50%;
+	float: left;
+	box-sizing: border-box;
+	padding-left: 40px;
+	text-align: right;
+	margin-top: 20px;
+	font-family: 'Quicksand', sans-serif;
+	color: #BBBBBB;
+	font-size: 14pt;
+}
+.feature-image {
+	max-width: 300px;
+	border-radius: 15%;
+}
+.content {
+	width: 700px;
+	margin: 0 auto;
+	padding: 20px 40px;
+	overflow: auto;
+}
+.img {
+	max-width: 300px;
+}
+.img2 {
+	max-width: 270px;
+}
+.id {
+	float:right;
+	width: 150px;
+	height: 5px;
+	margin: 5px;
+	border: 1px solid;
+	background: #bbbbbb;
+}
+.ae {
+	float:right;
+	width: 100px;
+	height: 5px;
+	margin: 5px;
+	border: 1px solid;
+	background: #bbbbbb;
+}
+.pts{
+	float:right;
+	width: 170px;
+	height: 5px;
+	margin: 5px;
+	border: 1px solid;
+	background: #bbbbbb;
+	
+}
