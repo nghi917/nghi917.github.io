@@ -32,34 +32,7 @@ a:hover {
 #menu a:hover {
 	color:#82AC99;
 }
-.one-thirdintro {
-	width: 50%;
-	float: left;
-	box-sizing: border-box;
-	margin-top: 20px;
-	font-family: 'Quicksand', sans-serif;
-	color:#BBBBBB;
-	font-size: 14pt;
-}
-.one-thirdprofile {
-	width: 50%;
-	float: left;
-	box-sizing: border-box;
-	margin-top: 20px;
-	font-family: 'Quicksand', sans-serif;
-	color:#BBBBBB;
-	font-size: 14pt;
-}
-.one-thirdskill {
-	width: 50%;
-	float: left;
-	box-sizing: border-box;
-	margin-top: 20px;
-	font-family: 'Quicksand', sans-serif;
-	color:#BBBBBB;
-	font-size: 14pt;
-}
-.one-thirdcontact {
+.one-third {
 	width: 50%;
 	float: left;
 	box-sizing: border-box;
@@ -78,40 +51,7 @@ a:hover {
 	margin-top: 0;
 	font-size: 40px
 }
-.two-thirdintro {
-	width: 50%;
-	float: left;
-	box-sizing: border-box;
-	padding-left: 40px;
-	text-align: right;
-	margin-top: 20px;
-	font-family: 'Quicksand', sans-serif;
-	color: #BBBBBB;
-	font-size: 14pt;
-}
-.two-thirdprofile {
-	width: 50%;
-	float: left;
-	box-sizing: border-box;
-	padding-left: 40px;
-	text-align: right;
-	margin-top: 20px;
-	font-family: 'Quicksand', sans-serif;
-	color: #BBBBBB;
-	font-size: 14pt;
-}
-.two-thirdskill {
-	width: 50%;
-	float: left;
-	box-sizing: border-box;
-	padding-left: 40px;
-	text-align: right;
-	margin-top: 20px;
-	font-family: 'Quicksand', sans-serif;
-	color: #BBBBBB;
-	font-size: 14pt;
-}
-.two-thirdcontact {
+.two-third {
 	width: 50%;
 	float: left;
 	box-sizing: border-box;
