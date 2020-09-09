@@ -5,7 +5,12 @@
 	margin: 0;
 	padding: 0;
 }
-
+body{
+ scroll-behavior: smooth;
+}
+menu {
+	position: fixed;
+}
 a:hover {
   color: #fff;
 }
@@ -71,7 +76,6 @@ a:hover {
 	height: 1500px;
 	margin: 0 auto;
 	padding: 20px 40px;
-	overflow: auto;
 }
 .img {
 	max-width: 300px;
