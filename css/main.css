@@ -5,6 +5,9 @@
 	margin: 0;
 	padding: 0;
 }
+#menu {
+	position:fixed;
+}
 a:hover {
   color: #fff;
 }
@@ -12,7 +15,6 @@ a:hover {
 	text-align: center;
 	font-family: 'Paytone One', sans-serif;
 	list-style-type: none;
-	background:#2D2D2D;
 }
 
 #menu li {
@@ -31,7 +33,34 @@ a:hover {
 #menu a:hover {
 	color:#82AC99;
 }
-.one-third {
+.one-thirdintro {
+	width: 50%;
+	float: left;
+	box-sizing: border-box;
+	margin-top: 20px;
+	font-family: 'Quicksand', sans-serif;
+	color:#BBBBBB;
+	font-size: 14pt;
+}
+.one-thirdprofile {
+	width: 50%;
+	float: left;
+	box-sizing: border-box;
+	margin-top: 20px;
+	font-family: 'Quicksand', sans-serif;
+	color:#BBBBBB;
+	font-size: 14pt;
+}
+.one-thirdskill {
+	width: 50%;
+	float: left;
+	box-sizing: border-box;
+	margin-top: 20px;
+	font-family: 'Quicksand', sans-serif;
+	color:#BBBBBB;
+	font-size: 14pt;
+}
+.one-thirdcontact {
 	width: 50%;
 	float: left;
 	box-sizing: border-box;
@@ -50,7 +79,40 @@ a:hover {
 	margin-top: 0;
 	font-size: 40px
 }
-.two-third {
+.two-thirdintro {
+	width: 50%;
+	float: left;
+	box-sizing: border-box;
+	padding-left: 40px;
+	text-align: right;
+	margin-top: 20px;
+	font-family: 'Quicksand', sans-serif;
+	color: #BBBBBB;
+	font-size: 14pt;
+}
+.two-thirdprofile {
+	width: 50%;
+	float: left;
+	box-sizing: border-box;
+	padding-left: 40px;
+	text-align: right;
+	margin-top: 20px;
+	font-family: 'Quicksand', sans-serif;
+	color: #BBBBBB;
+	font-size: 14pt;
+}
+.two-thirdskill {
+	width: 50%;
+	float: left;
+	box-sizing: border-box;
+	padding-left: 40px;
+	text-align: right;
+	margin-top: 20px;
+	font-family: 'Quicksand', sans-serif;
+	color: #BBBBBB;
+	font-size: 14pt;
+}
+.two-thirdcontact {
 	width: 50%;
 	float: left;
 	box-sizing: border-box;
@@ -67,6 +129,7 @@ a:hover {
 }
 .content {
 	width: 700px;
+	height: 1500px;
 	margin: 0 auto;
 	padding: 20px 40px;
 	overflow: auto;
