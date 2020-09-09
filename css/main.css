@@ -5,9 +5,7 @@
 	margin: 0;
 	padding: 0;
 }
-#menu {
-	position:fixed;
-}
+
 a:hover {
   color: #fff;
 }
@@ -15,6 +13,7 @@ a:hover {
 	text-align: center;
 	font-family: 'Paytone One', sans-serif;
 	list-style-type: none;
+	background: #1A1A1A;
 }
 
 #menu li {
